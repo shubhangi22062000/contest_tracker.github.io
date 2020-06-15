@@ -1,0 +1,102 @@
+/*
+.bodyBG {
+    background-size: cover;
+    background-image: url(https://tse4.mm.bing.net/th?id=OIP.oNL0WVKWd9taiCocFEPH_AHaE8&pid=Api&P=0&w=247&h=165) !important;
+    background-repeat: no-repeat;
+    font-family: fantasy;
+}
+*/
+body{
+    background-image: url(https://tse3.mm.bing.net/th?id=OIP.vBlIh3KhPB-s5ef1X90zOAHaEK&pid=Api&P=0&w=296&h=168);
+}
+.bg-dark {
+/*    background-color: #343a40!important;*/
+}
+.coloum {
+/*
+    margin-left: 100px;
+    margin-right: 100px;
+*/
+}
+.box {
+    color: white;
+    font-size: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 20px;
+    background-image: linear-gradient(to top right,rgb(166, 104, 41),brown);
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.nav-bar a {
+         text-decoration: none;
+         color: black;
+         display: block;
+    margin-bottom: 20px;
+      }
+      .nav-bar > ul {
+         list-style-type: none;
+         margin: 0;
+         padding: 0;
+      }
+      .nav-bar > ul > li > a {
+         padding: 10px;
+         background: lightgrey;
+          font-family:fantasy;      }
+      
+      .nav-bar li {
+         float: left;
+         width: 33.3%; 
+         text-align: center;
+         
+      }
+      .nav-bar li:last-child {
+         border: none;
+      }
+.nav-bar .warnig{
+    background: #FFEB46;
+}
+.nav-bar .success{
+   background-color: #3CB371;
+}
+.nav-bar .danger{
+    background-color: #DC143C;
+}
+@keyframes anime{
+    from{
+        background-color: yellow;
+        top: 0px;
+    }
+    to{
+        background-color: pink;
+        top: 40px;
+    }
+}
+
+.navdiv{
+ animation-name: anime;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    width: 20px;
+    height: 20px;
+    background-color: red;
+}
+
+.card2{
+    margin-top: 20px;
+    text-align: center;
+}
+.image{
+    border-radius: 50%;
+}
+.nav-bar>ul>li>a:hover{
+    text-decoration: none;
+    color: brown;
+    background-color: burlywood;
+}
+heading{
+    font-family: fantasy;
+}
