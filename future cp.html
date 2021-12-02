@@ -109,6 +109,14 @@
             endDate.textContent=endtime;
              carddiv.appendChild(endDate);
              
+                    let button=document.createElement('a');
+           button.classList.add('btn');
+           button.classList.add('alert-dark');
+           button.classList.add('btn-block');
+           button.setAttribute("src",myurl);
+           button.textContent="solve challenge";
+                    carddiv.appendChild(button);
+                    
              card.appendChild(carddiv);
              result.appendChild(card);
             //   
