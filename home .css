@@ -9,7 +9,7 @@
 			margin: 0;
 			padding: 0;
 			height: 100%;
-			background: #60a3bc !important;
+		        background: -webkit-linear-gradient(left, #3931af, #00c6ff);!important;
 		}
 		.user_card {
 			height: 400px;
