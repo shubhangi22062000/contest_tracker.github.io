@@ -100,5 +100,5 @@ p {
     background-color: burlywood;
 }
 heading{
-    font-family: fantasy;
+    font-family: fantasy!important;
 }
