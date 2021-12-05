@@ -15,3 +15,4 @@ var messageBox = document.querySelector('.js-message');
           card.classList.remove('active');
       });
   });
+
