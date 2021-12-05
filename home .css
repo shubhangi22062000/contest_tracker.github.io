@@ -1,15 +1,6 @@
 /* Coded with love by Mutiullah Samim */
 .margin{
-height: 400px;
-			width: 350px;
-			margin-top: auto;
-			margin-bottom: auto;
-			
-			position: relative;
-			display: flex;
-			justify-content: center;
-			flex-direction: column;
-			padding: 10px;
+margin:1400px;
 }
 .h1{
 	margin-top: auto;
