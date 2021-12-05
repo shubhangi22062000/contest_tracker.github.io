@@ -1,4 +1,10 @@
 /* Coded with love by Mutiullah Samim */
+.margin{
+margin-top: auto;
+			margin-bottom: auto;
+	position: relative;
+			display: flex;
+}
 .h1{
 	margin-top: auto;
 			margin-bottom: auto;
