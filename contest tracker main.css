@@ -16,6 +16,10 @@
     margin-right: 100px;
 */
 }
+
+body{
+background: -webkit-linear-gradient(left, #3931af, #00c6ff) !important;
+}
 .box {
     color: white;
     font-size: 30px;
